@@ -1,0 +1,15 @@
+{
+  "name": "0x01-es6_promise",
+  "version": "1.0.0",
+  "description": "0x01-ES6_promise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "alx-backend-javascript"
+  },
+  "author": "amha",
+  "license": "ISC"
+}
